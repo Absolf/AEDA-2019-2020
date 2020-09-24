@@ -1,0 +1,4 @@
+/snap/clion/100/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/laureano/Documents/FEUP 2019-2020/AEDA/Avaliações/MT 2/RECURSO PREPARATION/aeda1415_ci3_googleTest"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/laureano/Documents/FEUP 2019-2020/AEDA/Avaliações/MT 2/RECURSO PREPARATION/aeda1415_ci3_googleTest/cmake-build-debug

@@ -1,0 +1,56 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/laureano/Documents/FEUP 2019-2020/AEDA/Avaliações/MT3/1718/Myturn/Tests/BST.h
+iostream
+-
+stack
+-
+queue
+-
+
+/home/laureano/Documents/FEUP 2019-2020/AEDA/Avaliações/MT3/1718/Myturn/Tests/Expertize.h
+string
+-
+Student.h
+/home/laureano/Documents/FEUP 2019-2020/AEDA/Avaliações/MT3/1718/Myturn/Tests/Student.h
+
+/home/laureano/Documents/FEUP 2019-2020/AEDA/Avaliações/MT3/1718/Myturn/Tests/FEUPConsulting.cpp
+FEUPConsulting.h
+/home/laureano/Documents/FEUP 2019-2020/AEDA/Avaliações/MT3/1718/Myturn/Tests/FEUPConsulting.h
+
+/home/laureano/Documents/FEUP 2019-2020/AEDA/Avaliações/MT3/1718/Myturn/Tests/FEUPConsulting.h
+BST.h
+/home/laureano/Documents/FEUP 2019-2020/AEDA/Avaliações/MT3/1718/Myturn/Tests/BST.h
+vector
+-
+unordered_set
+-
+queue
+-
+Expertize.h
+/home/laureano/Documents/FEUP 2019-2020/AEDA/Avaliações/MT3/1718/Myturn/Tests/Expertize.h
+Student.h
+/home/laureano/Documents/FEUP 2019-2020/AEDA/Avaliações/MT3/1718/Myturn/Tests/Student.h
+Project.h
+/home/laureano/Documents/FEUP 2019-2020/AEDA/Avaliações/MT3/1718/Myturn/Tests/Project.h
+
+/home/laureano/Documents/FEUP 2019-2020/AEDA/Avaliações/MT3/1718/Myturn/Tests/Project.h
+string
+-
+Student.h
+/home/laureano/Documents/FEUP 2019-2020/AEDA/Avaliações/MT3/1718/Myturn/Tests/Student.h
+
+/home/laureano/Documents/FEUP 2019-2020/AEDA/Avaliações/MT3/1718/Myturn/Tests/Student.h
+string
+-
+vector
+-
+utility
+-
+

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/laureano/Documents/FEUP 2019-2020/AEDA/Prática 11 - (Conjunto disjuntos)/aeda1920_fp11/Tests/disjointSets.h
+vector
+-
+iostream
+-
+
+/home/laureano/Documents/FEUP 2019-2020/AEDA/Prática 11 - (Conjunto disjuntos)/aeda1920_fp11/Tests/maze.cpp
+maze.h
+/home/laureano/Documents/FEUP 2019-2020/AEDA/Prática 11 - (Conjunto disjuntos)/aeda1920_fp11/Tests/maze.h
+iostream
+-
+iomanip
+-
+utility
+-
+algorithm
+-
+
+/home/laureano/Documents/FEUP 2019-2020/AEDA/Prática 11 - (Conjunto disjuntos)/aeda1920_fp11/Tests/maze.h
+disjointSets.h
+/home/laureano/Documents/FEUP 2019-2020/AEDA/Prática 11 - (Conjunto disjuntos)/aeda1920_fp11/Tests/disjointSets.h
+

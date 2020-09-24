@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/laureano/Documents/FEUP 2019-2020/AEDA/Prática 09 - (tabelas de dispersão)/aeda1920_fp09/Tests/aposta.h
+unordered_set
+-
+vector
+-
+string
+-
+
+/home/laureano/Documents/FEUP 2019-2020/AEDA/Prática 09 - (tabelas de dispersão)/aeda1920_fp09/Tests/jogador.cpp
+jogador.h
+/home/laureano/Documents/FEUP 2019-2020/AEDA/Prática 09 - (tabelas de dispersão)/aeda1920_fp09/Tests/jogador.h
+
+/home/laureano/Documents/FEUP 2019-2020/AEDA/Prática 09 - (tabelas de dispersão)/aeda1920_fp09/Tests/jogador.h
+aposta.h
+/home/laureano/Documents/FEUP 2019-2020/AEDA/Prática 09 - (tabelas de dispersão)/aeda1920_fp09/Tests/aposta.h
+string
+-
+

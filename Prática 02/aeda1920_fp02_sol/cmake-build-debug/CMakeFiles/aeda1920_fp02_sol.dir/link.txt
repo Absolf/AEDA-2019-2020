@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/aeda1920_fp02_sol.dir/main.cpp.o CMakeFiles/aeda1920_fp02_sol.dir/Tests/tests.cpp.o CMakeFiles/aeda1920_fp02_sol.dir/Tests/frota.cpp.o CMakeFiles/aeda1920_fp02_sol.dir/Tests/veiculo.cpp.o  -o aeda1920_fp02_sol lib/libgtestd.a lib/libgtest_maind.a lib/libgtestd.a -lpthread 

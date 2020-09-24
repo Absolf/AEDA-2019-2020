@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/laureano/Documents/FEUP 2019-2020/AEDA/Prática 10 - filas de prioridade/aeda1920_fp10 /Tests/caixa.h
+stack
+-
+iostream
+-
+
+/home/laureano/Documents/FEUP 2019-2020/AEDA/Prática 10 - filas de prioridade/aeda1920_fp10 /Tests/maquinaEmpacotar.cpp
+maquinaEmpacotar.h
+/home/laureano/Documents/FEUP 2019-2020/AEDA/Prática 10 - filas de prioridade/aeda1920_fp10 /Tests/maquinaEmpacotar.h
+sstream
+-
+
+/home/laureano/Documents/FEUP 2019-2020/AEDA/Prática 10 - filas de prioridade/aeda1920_fp10 /Tests/maquinaEmpacotar.h
+queue
+-
+vector
+-
+stack
+-
+iostream
+-
+caixa.h
+/home/laureano/Documents/FEUP 2019-2020/AEDA/Prática 10 - filas de prioridade/aeda1920_fp10 /Tests/caixa.h
+

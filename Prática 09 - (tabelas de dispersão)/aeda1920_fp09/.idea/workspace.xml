@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="aeda1920_fp09" targetName="gtest" />
+      <config projectName="aeda1920_fp09" targetName="gmock_main" />
+      <config projectName="aeda1920_fp09" targetName="gmock" />
+      <config projectName="aeda1920_fp09" targetName="gtest_main" />
+      <config projectName="aeda1920_fp09" targetName="aeda1920_fp09" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b211b42-2627-4016-9079-1715664d811f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1V2CISTT2FcERBgF1Sp9Hryr6OW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="CMake Application.aeda1920_fp09">
+    <configuration name="aeda1920_fp09" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aeda1920_fp09" TARGET_NAME="aeda1920_fp09" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="aeda1920_fp09" RUN_TARGET_NAME="aeda1920_fp09">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aeda1920_fp09" TARGET_NAME="gmock" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aeda1920_fp09" TARGET_NAME="gmock_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aeda1920_fp09" TARGET_NAME="gtest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="aeda1920_fp09" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.aeda1920_fp09" />
+      <item itemvalue="CMake Application.gmock" />
+      <item itemvalue="CMake Application.gmock_main" />
+      <item itemvalue="CMake Application.gtest" />
+      <item itemvalue="CMake Application.gtest_main" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b211b42-2627-4016-9079-1715664d811f" name="Default Changelist" comment="" />
+      <created>1576441723177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576441723177</updated>
+      <workItem from="1576441726635" duration="2660000" />
+      <workItem from="1576605262801" duration="2322000" />
+      <workItem from="1578064466162" duration="2072000" />
+      <workItem from="1578080335482" duration="737000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="882" height="365" key="GridCell.Tab.0.bottom" timestamp="1578082046964">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="882" height="365" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1578082046964" />
+    <state width="882" height="365" key="GridCell.Tab.0.center" timestamp="1578082046963">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="882" height="365" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1578082046963" />
+    <state width="882" height="365" key="GridCell.Tab.0.left" timestamp="1578082046961">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="882" height="365" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1578082046961" />
+    <state width="882" height="365" key="GridCell.Tab.0.right" timestamp="1578082046963">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="882" height="365" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1578082046963" />
+    <state width="882" height="365" key="GridCell.Tab.1.bottom" timestamp="1578082046965">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="882" height="365" key="GridCell.Tab.1.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1578082046965" />
+    <state width="882" height="365" key="GridCell.Tab.1.center" timestamp="1578082046964">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="882" height="365" key="GridCell.Tab.1.center/65.24.1855.1056@65.24.1855.1056" timestamp="1578082046964" />
+    <state width="882" height="365" key="GridCell.Tab.1.left" timestamp="1578082046964">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="882" height="365" key="GridCell.Tab.1.left/65.24.1855.1056@65.24.1855.1056" timestamp="1578082046964" />
+    <state width="882" height="365" key="GridCell.Tab.1.right" timestamp="1578082046965">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="882" height="365" key="GridCell.Tab.1.right/65.24.1855.1056@65.24.1855.1056" timestamp="1578082046965" />
+    <state x="1116" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1576441736810">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="1116" y="380" key="com.intellij.ide.util.TipDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1576441736810" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Tests/jogador.cpp</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+/snap/clion/99/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/laureano/Documents/FEUP 2019-2020/AEDA/Prática 09 - (tabelas de dispersão)/aeda1920_fp09"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/laureano/Documents/FEUP 2019-2020/AEDA/Prática 09 - (tabelas de dispersão)/aeda1920_fp09/cmake-build-debug

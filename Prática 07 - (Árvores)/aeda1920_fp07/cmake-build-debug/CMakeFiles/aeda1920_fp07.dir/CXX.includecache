@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/laureano/Documents/FEUP 2019-2020/AEDA/Prática 07 - (Árvores)/aeda1920_fp07/Tests/binaryTree.h
+iostream
+-
+stack
+-
+queue
+-
+
+/home/laureano/Documents/FEUP 2019-2020/AEDA/Prática 07 - (Árvores)/aeda1920_fp07/Tests/jogo.cpp
+jogo.h
+/home/laureano/Documents/FEUP 2019-2020/AEDA/Prática 07 - (Árvores)/aeda1920_fp07/Tests/jogo.h
+sstream
+-
+
+/home/laureano/Documents/FEUP 2019-2020/AEDA/Prática 07 - (Árvores)/aeda1920_fp07/Tests/jogo.h
+binaryTree.h
+/home/laureano/Documents/FEUP 2019-2020/AEDA/Prática 07 - (Árvores)/aeda1920_fp07/Tests/binaryTree.h
+iostream
+-
+stdlib.h
+-
+

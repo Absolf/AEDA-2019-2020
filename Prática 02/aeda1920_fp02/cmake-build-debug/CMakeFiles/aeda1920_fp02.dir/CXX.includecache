@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/laureano/Documents/FEUP 2019-2020/AEDA/Prática 02/aeda1920_fp02/Tests/frota.cpp
+frota.h
+/home/laureano/Documents/FEUP 2019-2020/AEDA/Prática 02/aeda1920_fp02/Tests/frota.h
+string
+-
+
+/home/laureano/Documents/FEUP 2019-2020/AEDA/Prática 02/aeda1920_fp02/Tests/frota.h
+vector
+-
+veiculo.h
+/home/laureano/Documents/FEUP 2019-2020/AEDA/Prática 02/aeda1920_fp02/Tests/veiculo.h
+
+/home/laureano/Documents/FEUP 2019-2020/AEDA/Prática 02/aeda1920_fp02/Tests/veiculo.h
+string
+-
+

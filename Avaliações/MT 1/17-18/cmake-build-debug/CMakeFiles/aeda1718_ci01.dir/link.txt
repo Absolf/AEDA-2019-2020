@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/aeda1718_ci01.dir/Test.cpp.o CMakeFiles/aeda1718_ci01.dir/Car.cpp.o  -o aeda1718_ci01 lib/libgtestd.a lib/libgtest_maind.a lib/libgtestd.a -lpthread 
